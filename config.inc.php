@@ -16,4 +16,5 @@ define("APP_CALLBACK", APP_DOMAIN . "/wangxiaomo/callback.php");
 define("APP_PATH", getcwd());
 define("LIBS_PATH", APP_PATH . "/libs");
 define("UTILS_PATH", APP_PATH . "/utils");
+define("HANDLERS_PATH", APP_PATH . "/handlers");
 ?>
